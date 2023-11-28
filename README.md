@@ -1,6 +1,9 @@
 # Roberto Hernández Carballo
-Cuenta dedicada a almacenar mis proyctos de programación.
 ### Hi there 👋
+
+Soy Roberto, estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma.
+Estos son los repositorios dedicados a mis asignaturas.
+
 
 <!--
 **rhcarballo/rhcarballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
